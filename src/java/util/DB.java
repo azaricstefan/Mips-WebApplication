@@ -24,8 +24,8 @@ public class DB {
 
     public static void init() {
         String URL = "jdbc:mysql://localhost:3306/mips";
-        String USER = "root";
-        String PASS = "root"; // PI PASS 123456
+        String USER = "mips";
+        String PASS = "mips"; // PI PASS 123456
         try {
             connection = DriverManager.getConnection(URL, USER, PASS);
         } catch (SQLException ex) {
