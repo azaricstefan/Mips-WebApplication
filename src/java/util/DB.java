@@ -27,6 +27,7 @@ public class DB {
         String USER = "mips";
         String PASS = "mips"; // PI PASS 123456
         try {
+            DriverManager.registerDriver(new com.mysql.jdbc.Driver ());
             connection = DriverManager.getConnection(URL, USER, PASS);
         } catch (SQLException ex) {
             Logger.getLogger(DB.class.getName()).log(Level.SEVERE, null, ex);
