@@ -2,9 +2,9 @@
 
 ## This was a project on a school subject: Microprocessor systems
 
-There are 2 repositories.
-Mips-WebApplication(this one) - which has web application code which basicly logs the sensor data and shows it in the application
-Mips-BoardCode - which has board code (Mikro C mostly)
+There are 2 relevant repositories:
+1. Mips-WebApplication(this one) - which has web application code which basicly logs the sensor data and shows it in the application
+2. Mips-BoardCode - which has board code (Mikro C mostly)
 
 In the other repo we have Meteo Station which measures temperature, humidity, pressure and send all that data via SIM module to this simple web application.
 
