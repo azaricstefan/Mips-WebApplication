@@ -3,12 +3,12 @@
 ## This was a project on a school subject: Microprocessor systems
 
 There are 2 repositories.
-mips(this one) - which has web application code which basicly logs the sensor data and shows it in the application
-MIPS-proj - which has board code (Mikro C mostly)
+Mips-WebApplication(this one) - which has web application code which basicly logs the sensor data and shows it in the application
+Mips-BoardCode - which has board code (Mikro C mostly)
 
 In the other repo we have Meteo Station which measures temperature, humidity, pressure and send all that data via SIM module to this simple web application.
 
-**Link to the repository of the code which is on the board: <a href="https://github.com/TashaSekularac/MIPS-proj"> Mips-Mikro C code</a>**
+**Link to the repository of the code which is on the board: <a href="https://github.com/xlstefan/Mips-BoardCode"> Mips-BoardCode </a>**
 
 We built a mobile hydro meteorological station which had following components:
 - Board used (Clicker 2 STM32 from MikroElektronika)
