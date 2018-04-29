@@ -1,4 +1,4 @@
-# mips
+# Mips-WebApplication 
 
 ## This was a project on a school subject: Microprocessor systems
 
